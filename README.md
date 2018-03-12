@@ -1,4 +1,4 @@
-# [Kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
+# Kurs Python dla początkujących
 
 Lekcja 2 - funkcja print() i input().
 
@@ -22,3 +22,5 @@ W katalogu z zadaniami uruchamiamy skrypt poleceniem:
 ```
 python <numer_zadania>.py
 ```
+
+Wpis jest częścią kursu [Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
