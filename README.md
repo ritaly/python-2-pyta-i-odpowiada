@@ -1,10 +1,8 @@
 # [Kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
 
-Część
-
 Lekcja 2 - funkcja print() i input().
 
-Wpis wraz z dokładnym opisem zadania: [Python #2: pyta i odpowiada](https://www.flynerd.pl/2017/01/python-2-pyta-i-odpowiada.html).
+Wpis wraz z dokładnym opisem zadań: [Python #2: pyta i odpowiada](https://www.flynerd.pl/2017/01/python-2-pyta-i-odpowiada.html).
 
 
 ### Sklonuj lub pobierz projekt
