@@ -18,7 +18,7 @@ lub [kliknij tutaj](https://github.com/ritaly/Python-2-pyta-i-odpowiada/archive/
 
 ### Uruchomienie
 
-W katalogu z zadaniami uruchamiamy poleceniem:
+W katalogu z zadaniami uruchamiamy skrypt poleceniem:
 ```
 python <numer_zadania>.py
 ```
